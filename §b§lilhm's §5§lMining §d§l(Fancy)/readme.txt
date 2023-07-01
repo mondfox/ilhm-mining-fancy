@@ -30,7 +30,7 @@ you can also modify "glass_pane_edges.png" and "glass_pane_sides.png" to change 
 
 sources for textures
 =============================
-gems are elodurs GEMS ARE EOLOLODURS PLS DONT GET MAD THAT I USED THEM NOONE WILL EVER USE THIS PACK <3
+Gems are Eloldurs discord.gg/8C3h9MmtdW
 bedrock is https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/230/13996138-newpiskel_m.jpg
 cobble is downscaled https://minecraft.novaskin.me/skin/1749563165/
 
