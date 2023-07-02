@@ -31,7 +31,7 @@ you can also modify "glass_pane_edges.png" and "glass_pane_sides.png" to change 
 sources for textures
 =============================
 Gems are Eloldurs discord.gg/8C3h9MmtdW
-bedrock is https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/230/13996138-newpiskel_m.jpg
+bedrock is recolored iron block from prism
 cobble is downscaled https://minecraft.novaskin.me/skin/1749563165/
 
 
